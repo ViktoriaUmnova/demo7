@@ -1,3 +1,5 @@
 public class dem7 {
-    112
+    5
+    5
+    55
 }
